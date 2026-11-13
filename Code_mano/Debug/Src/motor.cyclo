@@ -1,0 +1,5 @@
+../Inc/core_cm4.h:1626:22:NVIC_EnableIRQ	1
+../Src/motor.c:20:6:Motor_Init	1
+../Src/motor.c:70:7:Motor_GetCurrentAngle	1
+../Src/motor.c:75:6:Motor_SetTargetAngle	1
+../Src/motor.c:80:6:TIM1_UP_TIM10_IRQHandler	13

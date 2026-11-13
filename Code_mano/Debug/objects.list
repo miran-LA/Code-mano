@@ -1,0 +1,8 @@
+"./Src/bluetooth.o"
+"./Src/main.o"
+"./Src/motor.o"
+"./Src/oled_ssd1306.o"
+"./Src/sensor_flex.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401ceux.o"

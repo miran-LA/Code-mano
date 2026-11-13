@@ -1,0 +1,3 @@
+../Src/sensor_flex.c:6:6:ADC1_PA0_Init	4	static
+../Src/sensor_flex.c:15:10:ADC1_Read	4	static
+../Src/sensor_flex.c:20:9:CalcularPorcentajeFlexion	24	static
